@@ -1,0 +1,1 @@
+This project built a GitOps-based CI/CD pipeline using GitHub Actions and ArgoCD to deploy a Node.js app to a Kubernetes cluster on AWS EC2. The pipeline handles containerization, image scanning, and automated deployments. This setup ensures reliable, traceable, and hands-free delivery, all powered by modern DevOps best practices.
