@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: thiexco/my-app:ecd49491aa5b75b846a1a7e75fb7e31faf1cfed2
+        image: thiexco/my-app:ec245c912d5a8d9678519664422ded7bd31ad2d1
         ports:
         - containerPort: 3000
